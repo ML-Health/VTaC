@@ -1,0 +1,11 @@
+.DS_Store
+federated_vt_data/
+dataset/
+data/
+Arrhythmia_Contrastive_Learning/federated_vt_data/
+.pt
+.csv
+export/
+env/
+error/
+*.pyc
