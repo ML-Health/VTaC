@@ -3,13 +3,13 @@
 Code for defining, training, and evaluating models. Each model folder has 4 files:
 
 ## nets.py
-This file contains the definitions of PyTorch neural networks used for the respective model. The CNN, FCN, CNN+CL, and FCN+CL architectures and some of the code are adapted from the following work:
+This file contains the definitions of PyTorch neural networks used for the respective model. The Convolutional Neural Network (CNN), Fully-Connected Neural Network (FCN), and their respective contrastive learning (CL) versions, including CNN+CL, and FCN+CL architectures and some of the code are adapted from the following work. Please cite their work when using code for these models.
 
-Zhou, Y., Zhao, G., Li, J., Sun, G., Qian, X., Moody, B., Mark, R. G., & Lehman, L. H. (2022). A Contrastive Learning Approach for ICU False Arrhythmia Alarm Reduction. Nature Scientific Reports.
+Zhou, Y., Zhao, G., Li, J., Sun, G., Qian, X., Moody, B., Mark, R. G., & Lehman, L. H. [A Contrastive Learning Approach for ICU False Arrhythmia Alarm Reduction.](https://rdcu.be/cJf9V) Nature Scientific Reports, 2022.
 
 The SAE architecture and code is adapted from this work:
 
-"Representation Learning Approaches to Detect False Arrhythmia Alarms from ECG Dynamics," Eric P. Lehman, Rahul G. Krishnan, Xiaopeng Zhao, Roger G. Mark, Li-wei H. Lehman, Proceedings of the 3rd Machine Learning for Healthcare Conference, PMLR 85:571-586, 2018.
+Eric P. Lehman, Rahul G. Krishnan, Xiaopeng Zhao, Roger G. Mark, Li-wei H. Lehman, [Representation Learning Approaches to Detect False Arrhythmia Alarms from ECG Dynamics.](https://proceedings.mlr.press/v85/lehman18a.html) Proceedings of the 3rd Machine Learning for Healthcare Conference, PMLR 85:571-586, 2018.
 
 ## tools.py
 
