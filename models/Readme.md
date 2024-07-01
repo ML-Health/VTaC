@@ -1,6 +1,8 @@
 # Models
 
-Code for defining, training, and evaluating supervised models used in the VTaC paper. Each model folder has 4 files:
+This folder contains code for defining, training, and evaluating supervised and contrastive learning models used in the [VTaC paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a53bf4e02022aad32a4019d41b3b476-Paper-Datasets_and_Benchmarks.pdf).  For generative approaches, including diffusion models, please see links provided in the VTaC paper.  Code for the rule-based approach can be downloaded from [PhysioNet Challenge 2015 website](https://www.physionet.org/static/published-projects/challenge-2015/1.0.0/sources/).
+
+Each model folder has 4 files: 
 
 ## nets.py
 This file contains the definitions of PyTorch neural networks used for the respective model. The Convolutional Neural Network (CNN), Fully-Connected Neural Network (FCN), and their respective contrastive learning (CL) versions, including CNN+CL, and FCN+CL architectures and some of the code are adapted from the following work. 
@@ -28,3 +30,5 @@ This is an evaluation script that loads models and runs evals on the test set. I
 ## train.py
 
 This is a training file that takes in hyperparameters based on the type of model. This code is adapted from Zhou et. al. 2022.
+
+
