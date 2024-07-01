@@ -2,9 +2,8 @@
 
 This repository contains code and script for the VTaC NeurIPS 2023 paper: 
 
-Li-wei Lehman, Benjamin Moody, Harsh Deep, Feng Wu, Hasan Saeed, Lucas McCullum, Diane Perry, Tristan Struja, Qiao Li, Gari Clifford, Roger Mark, [VTaC: A Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors,]  
-(https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a53bf4e02022aad32a4019d41b3b476-Abstract-Datasets_and_Benchmarks.html) Advances in Neural Information Processing Systems 36 ([NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023)), Datasets and Benchmarks Track.
-[PDF version.] (https://proceedings.neurips.cc/paper_files/paper/2023/file/7a53bf4e02022aad32a4019d41b3b476-Paper-Datasets_and_Benchmarks.pdf)
+Li-wei Lehman, Benjamin Moody, Harsh Deep, Feng Wu, Hasan Saeed, Lucas McCullum, Diane Perry, Tristan Struja, Qiao Li, Gari Clifford, Roger Mark, [VTaC: A Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors,](https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a53bf4e02022aad32a4019d41b3b476-Abstract-Datasets_and_Benchmarks.html) Advances in Neural Information Processing Systems 36 ([NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023)), Datasets and Benchmarks Track.
+[PDF version.](https://proceedings.neurips.cc/paper_files/paper/2023/file/7a53bf4e02022aad32a4019d41b3b476-Paper-Datasets_and_Benchmarks.pdf)
 
 ##Abstract
 
