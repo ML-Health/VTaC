@@ -27,7 +27,7 @@ reduction, and present performance of multiple machine learning approaches,
 including conventional supervised machine learning, deep learning, contrastive
 learning and generative approaches for the task of VT false alarm reduction. 
 
-The VTaC dataset is available at [PhysioNet (https://physionet.org/content/vtac/1.0/)](https://physionet.org/content/vtac/1.0/).
+The VTaC dataset is available at [PhysioNet (https://physionet.org/content/vtac/1.0/)](https://physionet.org/content/vtac/1.0/). DOI: https://doi.org/10.13026/z4f3-1f07
 
 
 ## Setup
